@@ -5,6 +5,6 @@ void my_function(int x, int y) {
 }
 
 int main() {
-    my_function(x = 5, 3);  
+    my_function(5, 3);  
     return 0;
 }
